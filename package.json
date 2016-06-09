@@ -1,0 +1,24 @@
+{
+  "name": "gulp-browsersync",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magneticnoodle/gulp-browsersync.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magneticnoodle/gulp-browsersync/issues"
+  },
+  "homepage": "https://github.com/magneticnoodle/gulp-browsersync#readme",
+  "devDependencies": {
+    "browser-sync": "^2.13.0",
+    "gulp": "^3.9.1",
+    "gulp-sass": "^2.3.1"
+  }
+}
