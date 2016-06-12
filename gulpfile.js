@@ -2,7 +2,7 @@ var gulp = require('gulp'),
     sass = require('gulp-sass'),
     browserSync = require('browser-sync').create();
 
-// Create more tasks here.
+// You can create more tasks here
 
 // Compile SASS files
 gulp.task('sass', function () {
